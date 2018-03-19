@@ -1,0 +1,27 @@
+.header {
+    background-color: #222;
+    height: 60px;
+    padding: 20px;
+    color: white;
+  }
+  
+
+.mainbg {
+    background-color: darkolivegreen;
+    height: 800px;
+    padding: 20px;
+    color: wheat;
+  }
+  
+  .rightbox {
+      background-color: darkblue;
+      color: blanchedalmond;
+      text-align: center;
+      float: right;
+      height: 200px;
+      width: 150px;
+      border: black;
+      padding: 30px;
+
+
+  }
